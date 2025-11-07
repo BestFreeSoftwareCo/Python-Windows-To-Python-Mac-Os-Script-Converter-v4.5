@@ -5,9 +5,7 @@
 **Success Rate:** 99.9%  
 **Status:** Current Version
 
-**Discord:** https://discord.gg/j6wtpGJVng
-
-> **Important:** We're skipping V4.0 and jumping directly to V4.5 to include essential post-conversion features that users need most. 
+> **Important:** We're skipping V4.0 and jumping directly to V4.5 to include essential post-conversion features that users need most.
 
 ---
 
@@ -364,7 +362,7 @@ cd output/ && python3 fishing_macro_macos.py
 ```
 
 **Join our community:**
-- 🔗 **Discord:** https://discord.gg/j6wtpGJVng
+- 🔗 **Discord:** [LINK_COMING_SOON]
 - 📧 **Bug Reports:** Use `tools/bug_reporter.py`
 - 📖 **Documentation:** Complete guides in `docs/` folder
 

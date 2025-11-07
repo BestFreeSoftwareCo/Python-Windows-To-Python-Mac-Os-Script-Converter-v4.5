@@ -294,7 +294,7 @@ def report_bug_automatic(error_type, error_message, user_description="Automatic 
     
     print(f"\n🐛 Automatic bug report generated: {report['report_id']}")
     print(f"📄 Report saved: {report_file}")
-    print(f"📋 Please share this with the developer on Discord: https://discord.gg/j6wtpGJVng)
+    print(f"📋 Please share this with the developer on Discord: [DISCORD_LINK_PLACEHOLDER]")
     
     return report
 
